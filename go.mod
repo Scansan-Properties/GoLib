@@ -1,4 +1,4 @@
-module github.com/SpaceTent/GoLib
+module github.com/Scansan-Properties/GoLib
 
 go 1.22
 

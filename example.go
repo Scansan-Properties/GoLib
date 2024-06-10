@@ -5,7 +5,7 @@ import (
     
     _ "github.com/joho/godotenv/autoload"
     
-    "github.com/SpaceTent/GoLib/ScanSanAPI"
+    "github.com/Scansan-Properties/GoLib/ScanSanAPI"
 )
 
 func main() {
